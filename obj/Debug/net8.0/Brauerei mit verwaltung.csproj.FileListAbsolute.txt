@@ -1,0 +1,14 @@
+C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\bin\Debug\net8.0\Brauerei mit verwaltung.exe
+C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\bin\Debug\net8.0\Brauerei mit verwaltung.deps.json
+C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\bin\Debug\net8.0\Brauerei mit verwaltung.runtimeconfig.json
+C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\bin\Debug\net8.0\Brauerei mit verwaltung.dll
+C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\bin\Debug\net8.0\Brauerei mit verwaltung.pdb
+C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\obj\Debug\net8.0\Brauerei mit verwaltung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\obj\Debug\net8.0\Brauerei mit verwaltung.AssemblyInfoInputs.cache
+C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\obj\Debug\net8.0\Brauerei mit verwaltung.AssemblyInfo.cs
+C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\obj\Debug\net8.0\Brauerei mit verwaltung.csproj.CoreCompileInputs.cache
+C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\obj\Debug\net8.0\Brauerei mit verwaltung.dll
+C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\obj\Debug\net8.0\refint\Brauerei mit verwaltung.dll
+C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\obj\Debug\net8.0\Brauerei mit verwaltung.pdb
+C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\obj\Debug\net8.0\Brauerei mit verwaltung.genruntimeconfig.cache
+C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\obj\Debug\net8.0\ref\Brauerei mit verwaltung.dll
