@@ -1,1 +1,2 @@
-HodenKobolt;1,5;480
+Becks;0,25;50000000
+Lutz Strak Bier;2,88;6000

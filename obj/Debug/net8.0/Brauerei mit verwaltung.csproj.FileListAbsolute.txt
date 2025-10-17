@@ -12,3 +12,4 @@ C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\obj\Debug
 C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\obj\Debug\net8.0\Brauerei mit verwaltung.pdb
 C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\obj\Debug\net8.0\Brauerei mit verwaltung.genruntimeconfig.cache
 C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\obj\Debug\net8.0\ref\Brauerei mit verwaltung.dll
+C:\Users\odin2\source\repos\Meine Projektmappe\Brauerei mit verwaltung\obj\Debug\net8.0\Brauerei mit verwaltung.sourcelink.json
