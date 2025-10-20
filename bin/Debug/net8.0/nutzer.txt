@@ -1,0 +1,2 @@
+﻿Braumeister;0815;True;True
+Ingo;0815;False;False

@@ -1,0 +1,3 @@
+﻿Braumeister;0815;True;True
+Ingo;0815;False;False
+Bernd;0815;True;False

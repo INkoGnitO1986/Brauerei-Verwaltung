@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Brauerei mit verwaltung")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5267ae014db48ef21dd1bcf5af59ebebfead3ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1750c59477d8d06621cbb1648bad728c0799bf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Brauerei mit verwaltung")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Brauerei mit verwaltung")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

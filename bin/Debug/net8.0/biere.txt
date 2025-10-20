@@ -1,2 +1,4 @@
-Becks;0,25;50000000
-Lutz Strak Bier;2,88;6000
+﻿Becks;25;49991000
+Lutz Strak Bier;288;6000
+Faxe;355;50
+Faxe;3,55;500
